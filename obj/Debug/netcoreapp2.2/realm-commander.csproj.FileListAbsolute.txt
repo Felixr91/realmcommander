@@ -1,0 +1,14 @@
+/Users/felixramirez/source/codeworks/realm-commander/bin/Debug/netcoreapp2.2/realm-commander.deps.json
+/Users/felixramirez/source/codeworks/realm-commander/bin/Debug/netcoreapp2.2/realm-commander.runtimeconfig.json
+/Users/felixramirez/source/codeworks/realm-commander/bin/Debug/netcoreapp2.2/realm-commander.runtimeconfig.dev.json
+/Users/felixramirez/source/codeworks/realm-commander/bin/Debug/netcoreapp2.2/realm-commander.dll
+/Users/felixramirez/source/codeworks/realm-commander/bin/Debug/netcoreapp2.2/realm-commander.pdb
+/Users/felixramirez/source/codeworks/realm-commander/obj/Debug/netcoreapp2.2/realm-commander.csprojAssemblyReference.cache
+/Users/felixramirez/source/codeworks/realm-commander/obj/Debug/netcoreapp2.2/realm-commander.csproj.CoreCompileInputs.cache
+/Users/felixramirez/source/codeworks/realm-commander/obj/Debug/netcoreapp2.2/realm-commander.RazorAssemblyInfo.cache
+/Users/felixramirez/source/codeworks/realm-commander/obj/Debug/netcoreapp2.2/realm-commander.RazorAssemblyInfo.cs
+/Users/felixramirez/source/codeworks/realm-commander/obj/Debug/netcoreapp2.2/realm-commander.AssemblyInfoInputs.cache
+/Users/felixramirez/source/codeworks/realm-commander/obj/Debug/netcoreapp2.2/realm-commander.AssemblyInfo.cs
+/Users/felixramirez/source/codeworks/realm-commander/obj/Debug/netcoreapp2.2/realm-commander.RazorTargetAssemblyInfo.cache
+/Users/felixramirez/source/codeworks/realm-commander/obj/Debug/netcoreapp2.2/realm-commander.dll
+/Users/felixramirez/source/codeworks/realm-commander/obj/Debug/netcoreapp2.2/realm-commander.pdb
